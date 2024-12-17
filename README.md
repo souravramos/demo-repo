@@ -1,6 +1,8 @@
-# Demo
+<<<<<<< HEAD
+## demo-repo
+Demo for Github Intro Video
 
-Some description!
+Hello World! I'm Sourav.
 
 ## Subheader
 
@@ -11,3 +13,9 @@ Git and Github!
 ### Subheader 1
 
 Slack and Jira!
+=======
+## demo-repo
+Demo for Github Intro Video
+
+Hello World! I'm Sourav.
+>>>>>>> d9d52f9350953af6d78255081ebda56e11d90665
